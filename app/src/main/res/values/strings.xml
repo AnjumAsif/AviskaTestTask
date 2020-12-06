@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AviskaTestTask</string>
+
+    <string name="hint_email_username">Email</string>
+
+    <string name="hint_password">Password</string>
+    <string name="button_signin">SignIn</string>
+    <string name="email_empty_error_msg">Email can\'t be empty.</string>
+    <string name="enter_a_password_error_msg">Password can\'t be empty.</string>
+    <string name="hello_asif">Hello Asif!</string>
+</resources>
